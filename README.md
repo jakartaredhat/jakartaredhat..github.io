@@ -7,19 +7,18 @@ The main links a specification project needs to make use of to prepare the Jakar
 for jakarta.ee website specificaiton pages are to be created via pull requests once a specification
 project is ready for a release.
 * [TCK Process Details](https://github.com/jakartaee/specification-committee/blob/master/process.adoc)
-  ** This outlines that TCK binaries must include:
-  
-     *** User guide outlining
-     *** Software requirements
-     *** Installation and configuration
-     *** How to run the tests
-     *** Where to file challenges
-     *** TCK specific rules not covered in this process guide
-     *** Instructions describing how to run the compatible implementation(s) that are being used to validate the TCK
-     *** A top-level README document pointing to each of the preceding documents
-  ** It is recommended that the TCK documentation include
-     *** URLs for the issue trackers to file certification requests, bug reports, etc.
-     *** A statement that the Certification of Compatibility process must be followed before a claim of compatibility can be made.
+  - This outlines that TCK binaries must include:
+    * User guide outlining
+    * Software requirements
+    * Installation and configuration
+    * How to run the tests
+    * Where to file challenges
+    * TCK specific rules not covered in this process guide
+    * Instructions describing how to run the compatible implementation(s) that are being used to validate the TCK
+    * A top-level README document pointing to each of the preceding documents
+  - It is recommended that the TCK documentation include
+    * URLs for the issue trackers to file certification requests, bug reports, etc.
+    * A statement that the Certification of Compatibility process must be followed before a claim of compatibility can be made.
 * [EFTL](https://www.eclipse.org/legal/tck.php) - The Eclipse Foundation Technology Compatibility Kit License that
 must be included in the final TCK binaries a specification project produces. 
 
