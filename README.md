@@ -1,5 +1,28 @@
-## Welcome to GitHub Pages
+# RedHat Jakarta Efforts
 
+## Links for the Jakarta EE 8 Release
+The main links a specification project needs to make use of to prepare the Jakarta EE 8 release.
+* [Detailed steps to create a spec project release](https://wiki.eclipse.org/How_to_Prepare_API_Projects_for_the_Jakarta_EE_8_Release)
+* [Jakarta Specification Committee Specification Pages](https://github.com/jakartaee/specifications) - where the contents
+for jakarta.ee website specificaiton pages are to be created via pull requests once a specification
+project is ready for a release.
+* [TCK Process Details](https://github.com/jakartaee/specification-committee/blob/master/process.adoc)
+** This outlines that TCK binaries must include:
+*** User guide outlining
+*** Software requirements
+*** Installation and configuration
+*** How to run the tests
+*** Where to file challenges
+*** TCK specific rules not covered in this process guide
+*** Instructions describing how to run the compatible implementation(s) that are being used to validate the TCK
+*** A top-level README document pointing to each of the preceding documents
+** It is recommended that the TCK documentation include
+*** URLs for the issue trackers to file certification requests, bug reports, etc.
+*** A statement that the Certification of Compatibility process must be followed before a claim of compatibility can be made.
+* [EFTL](https://www.eclipse.org/legal/tck.php) - The Eclipse Foundation Technology Compatibility Kit License that
+must be included in the final TCK binaries a specification project produces. 
+
+## Basic Info About Editing Site
 You can use the [editor on GitHub](https://github.com/jakartaredhat/jakartaredhat..github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
