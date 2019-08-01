@@ -8,6 +8,7 @@ for jakarta.ee website specificaiton pages are to be created via pull requests o
 project is ready for a release.
 * [TCK Process Details](https://github.com/jakartaee/specification-committee/blob/master/process.adoc)
   ** This outlines that TCK binaries must include:
+  
      *** User guide outlining
      *** Software requirements
      *** Installation and configuration
