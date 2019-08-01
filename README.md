@@ -21,6 +21,13 @@ project is ready for a release.
     * A statement that the Certification of Compatibility process must be followed before a claim of compatibility can be made.
 * [EFTL](https://www.eclipse.org/legal/tck.php) - The Eclipse Foundation Technology Compatibility Kit License that
 must be included in the final TCK binaries a specification project produces. 
+* [Project Status Spreadsheet](https://docs.google.com/spreadsheets/d/1Cb3o4CPEX-rG0utS5CD9Z6XzsAtO2rYFx_-ZFnizz-A/edit#gid=0) Helps track
+the status of key stages in the specification projects. 
+* Each specification project has an issue with key steps that are being tracked by the [PMC Final Specifications Releases](https://github.com/orgs/eclipse-ee4j/projects/15)
+project page.
+  - [DI](https://github.com/eclipse-ee4j/injection-api/issues/4)
+  - [CDI](https://github.com/eclipse-ee4j/cdi/issues/399)
+  - [BV](https://github.com/eclipse-ee4j/beanvalidation-api/issues/150)
 
 ## Basic Info About Editing Site
 You can use the [editor on GitHub](https://github.com/jakartaredhat/jakartaredhat..github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
